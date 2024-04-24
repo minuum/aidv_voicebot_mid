@@ -1,6 +1,7 @@
 """
-
-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
+인공지능서비스개발 중간고사
+streamlit 웹 앱 URL : https://voicebotmid-jqqfrg23q6tf4ep4nyvh5v.streamlit.app/
+Github URL : https://github.com/minuum/voicebot_mid
 
 문제: 다음에 유의해서 프로그램을 완성하고 배포하시오.
 
